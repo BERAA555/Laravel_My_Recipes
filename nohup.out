@@ -1,0 +1,14 @@
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
+[34420:34420:0916/115417.799386:ERROR:chrome_browser_cloud_management_controller.cc(163)] Cloud management controller initialization aborted as CBCM is not enabled.
+Opening in existing browser session.
+[11261:11261:0313/100920.599465:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+Warning: disabling flag --expose_wasm due to conflicting flags
+Fontconfig error: Cannot load default config file: No such file: (null)
+Opening in existing browser session.
+[32990:32990:0425/003658.614040:ERROR:policy_logger.cc(156)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(161) Cloud management controller initialization aborted as CBCM is not enabled. Please use the `--enable-chrome-browser-cloud-management` command line flag to enable it if you are not using the official Google Chrome build.
+Opening in existing browser session.
+Opening in existing browser session.
+Opening in existing browser session.
